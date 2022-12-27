@@ -1,18 +1,18 @@
 ### Hi there 👋 I'm a Full-Stack developer
-<a href="https://www.youtube.com/c/DjangoSchool">
-  <img align="left" alt="YouTube" width="22px" src="" />
-</a>
-<a href="https://t.me/DJWOMS">
-  <img align="left" alt="Telegram" width="22px" src="">
-</a>
-<a href="https://discord.gg/v36E3cWx">
-  <img align="left" alt="Discord" width="22px" src="" />
-</a>
-<a href="https://twitter.com/MikeOmelchenko">
-  <img align="left" alt="Twitter" width="22px" src="" />
+<a href="">
+  <img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 <a href="">
-  <img align="left" alt="LinkedIN" width="22px" src="" />
+  <img align="left" alt="Telegram" width="22px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667">
+</a>
+<a href="">
+  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="">
+  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="">
+  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ## Technology stack
@@ -52,11 +52,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
-## 𝗦𝘁𝗮𝘁𝘀
-
-![DJWOMS github stats](https://github-readme-stats.vercel.app/api?username=DJWOMS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![DJWOMS Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJWOMS&layout=compact&count_private=true&theme=gruvbox)
 
 <!--
 **Isk-Daniar/Isk-Daniar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
