@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm a Backend-developer Python
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=Telegram&logoColor=white)](https://t.me/Den4ik102) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=Telegram&logoColor=white)](https://t.me/Den4ik102) [![Github](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/Isk-Daniar) [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:daniar.iskuzin@gmail.com)
 
 </br>
 
